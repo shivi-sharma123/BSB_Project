@@ -13,6 +13,8 @@
 
 ### Quick Start
 1. Set up a python virtual environment
+  a. Start virtual envirment .\myenv\Scripts\activate.bat
+
 2. Run the following commands
 ```
 $ pip install -r requirements.txt
